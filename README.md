@@ -15,7 +15,7 @@
 ---
 
 ## 👨‍💻 Professional Summary
-*I am a highly motivated **Cybersecurity Student** at AGH University of Krakow, focusing on **Network Infrastructure** and **Threat Analysis**. Currently developing my skills within the **Cisco Incubator Program**, I combine academic knowledge with practical experience gained through **Bug Bounty** hunting.*
+*I am a highly motivated **Cybersecurity Student** at AGH University of Krakow, focusing on **Network Infrastructure** and **Threat Analysis**. I combine academic knowledge with practical experience gained through **Bug Bounty** hunting.*
 
 ---
 

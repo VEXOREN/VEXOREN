@@ -51,8 +51,8 @@
 <div align="center">
 
 ### 📊 GitHub Activity
-![Wojciech's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TWOJ_GITHUB_LOGIN&show_icons=true&theme=tokyonight&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TWOJ_GITHUB_LOGIN&layout=compact&theme=tokyonight)
+![Wojciech's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VEXOREN&show_icons=true&theme=tokyonight&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VEXOREN&layout=compact&theme=tokyonight)
 
 ---
 *“Security is not a product, but a process.”*

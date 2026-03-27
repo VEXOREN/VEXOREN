@@ -52,11 +52,11 @@
 
 ### 📊 GitHub Insights
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TWOJ_NICK&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VEXOREN&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TWOJ_NICK&theme=tokyonight" alt="Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VEXOREN&theme=tokyonight" alt="Profile Summary" />
 </p>
 
 ---

@@ -44,7 +44,6 @@
 * ✅ **CCNA: Introduction to Networks** – Issued by Cisco Networking Academy (March 2026)
 * 🛡️ **Validated Security Researcher** – Successfully reported security misconfigurations for **Clarivate** via HackerOne.
 * 🎓 **AGH University of Krakow** – Pursuing B.S. in Cybersecurity.
-* 👔 **Cisco Incubator** – Selected participant for the 2026/27 technical cohort.
 
 ---
 

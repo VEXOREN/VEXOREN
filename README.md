@@ -4,7 +4,7 @@
 ### 🛡️ Cybersecurity Student @ AGH University | Networking & Security Researcher
 
 <p align="center">
-  <a href="https://linkedin.com/in/TWOJ_LINKEDIN">
+  <a href="https://www.linkedin.com/in/wojciech-aleksander-240532351">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:w.aleksander05@gmail.com">
